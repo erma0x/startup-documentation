@@ -1,10 +1,8 @@
-![logo](logo.png)
 
 <h1 align="center">project-checklist</h1>
 <h3 align="center">A checklist of things to do before releasing your project</h3>
 
 
-> ### The best projects sell themselves
 
 
 ## 🎨 Initial Presentation
@@ -142,11 +140,3 @@ To maintain communication with existing users, use a newsletter. Consider using 
 * More details
   * [lemonade-stand](https://github.com/nayafia/lemonade-stand)
 
-## Optional
-
-- [x] Mention Related Projects
-  * Listing projects that are related to your projects can help users with discovering other related projects
-  * This is mostly for the purpose of spreading awareness and improving the connectedness of the community
-  * For each project you list, provide the name of the project and a short description of it
-  * Examples
-    * [sindresorhus/p-throttle](https://github.com/sindresorhus/p-throttle#related)
